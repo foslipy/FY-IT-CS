@@ -17,3 +17,6 @@ echo ""
 echo "Updating linux repos"
 sudo apt-get update
 
+echo ""
+echo "Updating linux repos"
+
